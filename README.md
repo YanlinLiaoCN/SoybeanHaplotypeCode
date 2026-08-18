@@ -22,8 +22,3 @@ These codes are associated with the following publication:
 If you use these scripts in your research, please cite:
 
 > Liao et al. (n.d.) Haplotype-based GWAS and deep-learning variant effect prediction prioritize GATA28 as a strong candidate for soybean hundred-seed weight. *In progress*.
-
-
-
-If you want to use these codes, please cite:
-Liao et al. (n.d.) Haplotype-based GWAS and deep-learning variant effect prediction prioritize GATA28 as a strong candidate for soybean hundred-seed weight.In progress.
